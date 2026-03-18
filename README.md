@@ -1,0 +1,1 @@
+# Projeto-AI-2026.1-Programa-o-Python--Teste
